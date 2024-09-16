@@ -31,12 +31,11 @@
 ![Node](https://img.shields.io/badge/node-000?style=for-the-badge&logo=node.js)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java)
 
-<br> 
-<br> 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abda-pereira&layout=compact&bg_color=000&border_color=7f77f1&title_color=7f77f1&text_color=FFF)
-
-<br>
 <br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abda-pereira.abda-pereira)
+> "If you can dream it, you can do it"  
+> — Walt Disney
+
+<br>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abda-pereira.abda-pereira)
