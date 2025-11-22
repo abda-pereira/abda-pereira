@@ -2,7 +2,8 @@
 
 ## Hi there 👋, I'm Abda Pereira 😉
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7f77f1)](https://www.linkedin.com/in/abda-pereira-0a4a2388/)
+[![Portfólio]([https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7f77f1](https://img.shields.io/badge/Portf%C3%B3lio-abdapereira.com.br-7f77f1?style=for-the-badge&logo=google-chrome&logoColor=white))](https://abdapereira.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7f77f1)](https://www.linkedin.com/in/abda-pereira)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=7f77f1)](https://github.com/abda-pereira)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=7f77f1)](mailto:abdaqop@gmail.com)
 
